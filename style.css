@@ -1,0 +1,16 @@
+.d-block w-100{
+    width: 100px;
+    height: auto;
+}
+
+.col-4{
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-right: 0px;
+        margin-left: 0px;
+      }
+
+.imagescard{
+  width: auto;
+  height: 150px;
+}
